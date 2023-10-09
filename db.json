@@ -7,12 +7,12 @@
 “descrizione” : “Descrizione del prodotto 1 ”
 },
 {
-“Nome” : “prodotto2”
-“Descrizione”:”descrizione del prodotto 2”
+“nome” : “prodotto2”
+“descrizione”:”descrizione del prodotto 2”
 },
 {
-“Nome”: “prodotto3”
-“Descrizione”: “descrizione del prodotto 3”
+“ome”: “prodotto3”
+"descrizione”: “descrizione del prodotto 3”
 },
 ]
 } 
