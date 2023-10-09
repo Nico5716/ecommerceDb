@@ -5,14 +5,14 @@
 {
 “Nome” : “prodotto1”,
 “descrizione” : “Descrizione del prodotto 1 ”
-}
+},
 {
 “Nome” : “prodotto2”
 “Descrizione”:”descrizione del prodotto 2”
-}
+},
 {
 “Nome”: “prodotto3”
 “Descrizione”: “descrizione del prodotto 3”
-}
+},
 ]
 } 
