@@ -3,18 +3,18 @@
       {
         "Nome" : "prodotto1",
         "descrizione" : "Descrizione del prodotto 1",
-         "prezzo" : 10 
+         "prezzo" : 20 
       },
       {
         "nome" : "prodotto2",
         "descrizione":"descrizione del prodotto 2",
-          "prezzo" : 25
+          "prezzo" : 37
           
       },
       {
         "nome": "prodotto",
         "descrizione": "descrizione del prodotto 3",
-          "prezzo" : 45
+          "prezzo" : 50
         
       }
     ]
